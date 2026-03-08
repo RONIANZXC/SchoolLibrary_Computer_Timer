@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AGENCY_PROJECT/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "9.6.0.0"
+        },
+        "runtime": {
+          "AGENCY_PROJECT.dll": {}
+        }
+      },
+      "MySql.Data/9.6.0.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "9.6.0.0",
+            "fileVersion": "9.6.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AGENCY_PROJECT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/9.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
